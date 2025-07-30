@@ -10,7 +10,7 @@ Bachelor of Technology in Computer Science & Engineering
 Birla Institute of Applied Sciences, Bhimtal
 
 🛠️ **Tech Stack**
-- 💻 Languages: JavaScript (ES6+), Python, Java, SQL, C++
+- 💻 Languages: JavaScript (ES6+), Python, SQL, C++
 - 🌐 Frontend: React.js, Tailwind CSS, ShadCN UI, HTML5, CSS3
 - 🔗 Backend: Node.js, Express.js, MongoDB, REST APIs
 - ☁️ Cloud/DevOps: AWS (EC2, S3), Vercel, Git, GitHub
@@ -18,7 +18,7 @@ Birla Institute of Applied Sciences, Bhimtal
 
 🚧 **Currently Building**
 - 🚀 MERN projects with cool UI
-- 📱 Exploring Android Development
+- 📱 Exploring Data Analytics
 - 📚 Sharpening DSA & system design
 
 ---
